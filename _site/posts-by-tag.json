@@ -6,6 +6,8 @@
   "tag" : "Artificial Intelligence",
   "posts" : [
       
+      "./back-to-basics.html",
+      
       "./AI-and-intellectual-property.html"
       
     ]
@@ -17,6 +19,36 @@
   "posts" : [
       
       "./AI-and-intellectual-property.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Job Description",
+  "posts" : [
+      
+      "./back-to-basics.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Technology",
+  "posts" : [
+      
+      "./back-to-basics.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Tools",
+  "posts" : [
+      
+      "./back-to-basics.html"
       
     ]
   } ,
@@ -35,8 +67,6 @@
   {
   "tag" : "artificial intelligence",
   "posts" : [
-      
-      "./back-to-basics.html",
       
       "./deep-q-learning-tic-tac-toe.html"
       
@@ -96,8 +126,6 @@
   "tag" : "machine learning",
   "posts" : [
       
-      "./back-to-basics.html",
-      
       "./deep-q-learning-tic-tac-toe.html",
       
       "./neural-network-optimization-methods.html",
@@ -123,8 +151,6 @@
   {
   "tag" : "neural networks",
   "posts" : [
-      
-      "./back-to-basics.html",
       
       "./ML-Library-from-scratch.html",
       
