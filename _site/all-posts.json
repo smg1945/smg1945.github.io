@@ -1,13 +1,13 @@
 {
   "posts" : [
     
+    "./starting-the-adventure.html",
+    
     "./back-to-basics.html",
     
     "./AI-and-intellectual-property.html",
     
     "./welcome-to-jekyll.html",
-    
-    "./starting-the-adventure.html",
     
     "./deep-q-learning-tic-tac-toe.html",
     
